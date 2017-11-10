@@ -2,7 +2,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
 ## checkout 
-git clone https://github.com/shaojianyong/electron-angular-start
+git clone https://github.com/shaojianyong/electron-angular-start.<br/>
 cd electron-angular-start
 
 ## Install dependents
